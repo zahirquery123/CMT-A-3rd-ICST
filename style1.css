@@ -1,0 +1,67 @@
+.divOne{
+    height: 200px;
+    width: 20%;
+    background-color: red;
+    float: left;
+    /*
+    box-sizing: border-box;
+    padding-top: 80px;
+    padding-left: 100px;
+    */
+}
+ 
+.divTwo{
+    height: 200px;
+    width: 80%;
+    background-color: green;
+    float: left;
+}
+.divThree{
+    height: 50px;
+    width: 25%;
+    background-color: yellow;
+    float: left;
+}
+.divFour{
+    height: 50px;
+    width: 25%;
+    background-color: aquamarine;
+    float: left;
+}
+.divFive{
+    height: 50px;
+    width: 25%;
+    background-color: yellow;
+    float: left;
+}
+.divSix{
+    height: 50px;
+    width: 25%;
+    background-color: aquamarine;
+    float: left;
+}
+.divSeven{
+    height: 400px;
+    width: 20%;
+    background-color: purple;
+    float: left;
+}
+.divEight{
+    height: 400px;
+    width: 80%;
+    background-color: blue;
+    float: left;
+}
+.divNine{
+    height: 50px;
+    width: 100%;
+    background-color: orange;
+    float: left;
+}
+.divTen{
+    height: 50px;
+    width: 100%;
+    background-color: purple;
+    float: left;
+}
+
